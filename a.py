@@ -1,0 +1,1 @@
+# "Welcome to phishingemailchecker. I plan to use python, flask, some ml algo to detect malicious emails based on full email content including text, attachments and url links. It is under development. I have registered the domain and set up email so feel free to contact support@phishingemailchecker if you have a question. Best, Minh"
